@@ -8,6 +8,9 @@ Para instalar las librerias necesarias para el reconocimiento facial. (en powers
 pip install -r requirements.txt
 ```
 
+```sh
+pip install -r .\requeriments.txt
+```
 ## Equipo de desarrollo 
 
 
